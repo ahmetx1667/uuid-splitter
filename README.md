@@ -1,4 +1,3 @@
-````markdown
 # UUID Splitter
 
 A powerful Python CLI tool and library to parse and convert UUIDs into high and low 64-bit parts, raw Latin1 string representation, and back. Perfect for developers needing detailed UUID manipulation and analysis.
