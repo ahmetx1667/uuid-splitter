@@ -1,0 +1,42 @@
+# Python derlenmiş dosyalar
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortamlar
+env/
+venv/
+ENV/
+.venv/
+
+# IDE/editor ayarları
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS/system dosyaları
+.DS_Store
+Thumbs.db
+
+# Log dosyaları
+*.log
+
+# Test coverage
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+
+# Paketleme
+dist/
+build/
+*.egg-info/
+
+# Local settings
+.settings/
+
+# Jupyter (ekstra ise)
+.ipynb_checkpoints/
